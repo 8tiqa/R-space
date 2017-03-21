@@ -2,5 +2,5 @@
 
   + Statistics Assignments for the course: github.com/tz33cu/ColumbiaX-Statistical-Thinking-for-Data-Science
   + DataCamp: Introduction to R for Data Science
-  + ---
+  + Applied Predictive Modelling -Kuhn Exercises
   + other random R scripts
